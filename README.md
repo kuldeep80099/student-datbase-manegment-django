@@ -1,0 +1,1 @@
+# student-datbase-manegment-django
